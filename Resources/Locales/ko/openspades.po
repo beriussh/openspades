@@ -32,7 +32,7 @@ msgstr "맵 저장이 실패했습니다:"
 #: Sources/Client/Client.cpp:624
 msgctxt "Client"
 msgid "[Global] "
-msgstr "전체"
+msgstr "[전체] "
 
 #: Sources/Client/Client_Draw.cpp:119
 msgctxt "Client"
